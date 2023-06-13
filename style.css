@@ -141,3 +141,79 @@ button{
     font-size: 18px;
     color: #E5E7EB;
  }
+
+ .section-3{
+    background-color: #e5e7eb;
+ }
+
+ .section-3-quote{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 75px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+ }
+
+ .quote{
+    display: flex;
+    font-weight: bolder;
+    margin-top: -50px;
+    margin-left: 1030px;
+    font-size: 25px;
+    margin-bottom: 25px;
+ }
+.section-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+ .s4-box{
+    background-color:  #2882f6;
+    width: 750px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    margin: 75px;
+ }
+
+ .s4-sign-up{
+    border-radius: 12px;
+    outline: none;
+    font-size: 16px;
+    padding: 1px 15px;
+    border: 1px solid white;
+    color: white;
+    display: flex;
+    margin-left: 150px;
+ }
+
+ .s4-subtext{
+    margin:0px;
+    color: #F9FAF8;
+ }
+
+ .s4-text{
+    display: flex;
+    margin:0px;
+    font-size: 24px;
+    color: #F9FAF8;
+ }
+
+ .section-5{
+    background-color: #1f2937;
+
+ }
+
+ .copyright{
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+ }
